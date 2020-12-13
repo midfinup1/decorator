@@ -1,0 +1,18 @@
+Called time
+	2020-12-14 00:02:03.096272
+Function name
+	get_wiki_links_remake
+Arguments
+	None
+Result
+	None
+
+Called time
+	2020-12-14 00:02:04.090614
+Function name
+	get_wiki_links_remake
+Arguments
+	None
+Result
+	None
+
